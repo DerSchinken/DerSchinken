@@ -1,4 +1,13 @@
-### Hi there 👋
+```
+  _____       ____   
+ |  __ \     |  _ \                             
+ | |  | |_ __| |_) |_   _ _ __ ___  _ __ ___     
+ | |  | | '__|  _ <| | | | '_ ` _ \| '_ ` _ \   
+ | |__| | |_ | |_) | |_| | | | | | | | | | | |       
+ |_____/|_(_)|____/ \__,_|_| |_| |_|_| |_| |_|      
+ ```
+                                              
+### I'm currently working on building a simplified version of tkinter
 
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
