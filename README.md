@@ -7,7 +7,7 @@
  |_____/|_(_)|____/ \__,_|_| |_| |_|_| |_| |_|      
  ```
                                               
-### I'm currently working on a simplified version of tkinter
+### I'm currently working on a programm that turns every x += 1 to x -=- 1
 
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
