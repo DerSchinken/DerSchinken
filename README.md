@@ -6,8 +6,7 @@
  | |__| | |_ | |_) | |_| | | | | | | | | | | |       
  |_____/|_(_)|____/ \__,_|_| |_| |_|_| |_| |_|      
  ```
-                                              
-### I'm currently working on a programm that turns every x += 1 to x -=- 1
+                                             
 ### And a Minibyte-Engine Rebuild
 :D
 <!--
