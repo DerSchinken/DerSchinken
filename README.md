@@ -7,7 +7,7 @@
  |_____/|_(_)|____/ \__,_|_| |_| |_|_| |_| |_|      
  ```
                                              
-### Working on a Minibyte-Engine Rebuild
+### Working on [BetterString](https://pypi.org/project/BetterString/)
 :D   
 The stats are wrong lol (Except the most used languages)    
     ![Ok](https://github-readme-stats.vercel.app/api?username=DrBumm&count_private=true&show_icons=true&theme=radical)
