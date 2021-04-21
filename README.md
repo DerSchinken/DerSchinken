@@ -10,7 +10,9 @@
 ### Working on a Minibyte-Engine Rebuild
 :D   
 The stats are wrong lol     
-    [![DrBumm's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrBumm)](https://github.com/anuraghazra/github-readme-stats)
+    ![Ok](https://github-readme-stats.vercel.app/api?username=DrBumm&count_private=true&show_icons=true&theme=radical)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrBumm&layout=compact&theme=radical)
+
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
