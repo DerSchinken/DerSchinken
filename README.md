@@ -9,7 +9,6 @@
                                              
 ### Working on [BetterString](https://pypi.org/project/BetterString/)
 :D   
-The stats are wrong lol (Except the most used languages)    
     ![Ok](https://github-readme-stats.vercel.app/api?username=DrBumm&count_private=true&show_icons=true&theme=radical)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrBumm&layout=compact&theme=radical)
 
