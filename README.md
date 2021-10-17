@@ -23,7 +23,9 @@ DerSchinken = Human(
 ### 🔭 I’m currently working on [BetterString](https://pypi.org/project/BetterString/) :D
 
 ![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
+<p style="color: #3fb950">Total additions: 65255++</p>
+<p style="color: #f85149">Total deletions: 32880--</p>
 
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
