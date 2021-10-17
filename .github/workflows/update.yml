@@ -3,8 +3,6 @@ name: update readme
 on:
   schedule:
     - cron: "0 0 * * *"
-  push:
-    branches: [ master ]
 
 jobs:
   build:
@@ -29,3 +27,10 @@ jobs:
           GIHTUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           python updater.py
+
+      - name: Update resources
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: README.md
+          commit-msg: Update resources
+          github-token: ${{ secrets.TOKEN }}
