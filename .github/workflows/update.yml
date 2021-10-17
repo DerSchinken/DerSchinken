@@ -26,7 +26,7 @@ jobs:
 
       - name: update readme
         env:
-          GIHTUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           python updater.py
 

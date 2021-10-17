@@ -4,7 +4,6 @@ from github import Github
 # Get token
 token = os.environ.get("GITHUB_TOKEN")
 
-print(token)
 g = Github(token)
 
 
