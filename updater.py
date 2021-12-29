@@ -11,7 +11,7 @@ def get_total_additions_deletions(username: str) -> dict:
     total_additions = 0
     total_deletions = 0
 
-    for repo in g.get_user(username).get_repos():
+    for repo in g.get_user(username).get_repos(visibility="all"):
         for weekly_code_frequency in repo.get_stats_code_frequency():
             total_additions += weekly_code_frequency.additions
             total_deletions += weekly_code_frequency.deletions
