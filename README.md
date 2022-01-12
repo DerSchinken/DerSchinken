@@ -25,8 +25,8 @@ DerSchinken = Human(
 ![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
 ```diff
-+ Total additions: +65952 +
-- Total deletions: -33087 -
++ Total additions: +65954 +
+- Total deletions: -33089 -
 ```
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
