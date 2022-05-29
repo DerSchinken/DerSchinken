@@ -20,7 +20,7 @@ DerSchinken = Human(
 )
  ```
                                              
-### 🔭 I’m currently working on [BetterString](https://pypi.org/project/BetterString/) :D
+<!-- ### 🔭 I’m currently working on [BetterString](https://pypi.org/project/BetterString/) :D -->
 
 ![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
