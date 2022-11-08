@@ -11,7 +11,7 @@ from reality.creatures import Human
 
 DerSchinken = Human(
   name = "DerSchinken",
-  age = 16,
+  age = {age},
   hobbys = [
     "Programming", 
     "Hiking", 
