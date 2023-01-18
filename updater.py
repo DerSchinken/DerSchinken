@@ -28,7 +28,7 @@ def get_total_additions_deletions(username: str) -> dict:
                 total_deletions += weekly_code_frequency.deletions
     """
 
-    return {"total_additions": total_additions, "total_deletions": total_deletions}
+    return {"total_additions": total_additions, "total_deletions": abs(total_deletions)}
 
 
 with open("README_template.md", "r") as f:
