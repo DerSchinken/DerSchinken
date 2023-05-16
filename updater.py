@@ -8,13 +8,12 @@ token = os.environ.get("GITHUB_TOKEN")
 g = Github(token)
 
 
-def get_total_additions_deletions(username: str) -> dict:
+def get_total_additions_deletions() -> dict:
     total_additions = 0
     total_deletions = 0
 
     # if g.get_user(username).avatar_url != g.get_user().avatar_url:
-    for repo in g.get_user(login=username).get_repos(visibility="all"):
-        print(repo)
+    for repo in g.get_user().get_repos(visibility="all"): 
         for weekly_code_frequency in repo.get_stats_code_frequency():
             total_additions += weekly_code_frequency.additions
             total_deletions += weekly_code_frequency.deletions
@@ -36,4 +35,4 @@ with open("README_template.md", "r") as f:
     template = f.read()
     
 with open("README.md", "w") as f:
-    f.write(template.format(**get_total_additions_deletions("DerSchinken"), age=eval(f"int({datetime.now().year}.{datetime.now().month}-2005.12-1)")))
+    f.write(template.format(**get_total_additions_deletions(), age=eval(f"int({datetime.now().year}.{datetime.now().month}-2005.12-1)")))
