@@ -14,6 +14,7 @@ def get_total_additions_deletions() -> dict:
 
     # if g.get_user(username).avatar_url != g.get_user().avatar_url:
     for repo in g.get_user().get_repos(visibility="all"): 
+        print(repo)
         for weekly_code_frequency in repo.get_stats_code_frequency():
             total_additions += weekly_code_frequency.additions
             total_deletions += weekly_code_frequency.deletions
