@@ -12,7 +12,7 @@ from reality.creatures import Human
 DerSchinken = Human(
   name = "DerSchinken",
   age = 17,
-  hobbys = [
+  hobbies = [
     "Programming", 
     "Hiking", 
     "Playing PC Games"
@@ -22,12 +22,13 @@ DerSchinken = Human(
                                              
 ### 🔭 I’m currently working on [BetterString](https://pypi.org/project/BetterString/) :D
 
-![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)
+<!--![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=DerSchinken&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
 ```diff
-+ Total lines written: + 633419 +
++ Total lines written: + 638269 +
 ```
-<!-- - Total lines deleted: - 522429 - -->
+<!-- - Total lines deleted: - 524148 - -->
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
