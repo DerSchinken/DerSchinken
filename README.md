@@ -11,7 +11,7 @@ from reality.creatures import Human
 
 DerSchinken = Human(
   name = "DerSchinken",
-  age = 17,
+  age = 16,
   hobbies = [
     "Programming", 
     "Hiking", 
@@ -26,9 +26,9 @@ DerSchinken = Human(
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DerSchinken&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
 ```diff
-+ Total lines written: + 639167 +
++ Total lines written: + 623555 +
 ```
-<!-- - Total lines deleted: - 524340 - -->
+<!-- - Total lines deleted: - 521587 - -->
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
