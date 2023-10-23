@@ -36,4 +36,4 @@ with open("README_template.md", "r") as f:
     template = f.read()
     
 with open("README.md", "w") as f:
-    f.write(template.format(**get_total_additions_deletions(), age=eval(f"int({datetime.now().year}.{datetime.now().month}-2005.12-1)")))
+    f.write(template.format(**get_total_additions_deletions(), age=eval(f"int({datetime.now().year}.{datetime.now().month}-2005.12)")))
