@@ -15,7 +15,8 @@ DerSchinken = Human(
   hobbies = [
     "Programming", 
     "Hiking", 
-    "Playing PC Games"
+    "Playing PC Games",
+    "Arisoft"
   ]
 )
  ```
