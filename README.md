@@ -15,7 +15,8 @@ DerSchinken = Human(
   hobbies = [
     "Programming", 
     "Hiking", 
-    "Playing PC Games"
+    "Playing PC Games",
+    "Arisoft"
   ]
 )
  ```
@@ -26,9 +27,9 @@ DerSchinken = Human(
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DerSchinken&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
 ```diff
-+ Total lines written: + 623559 +
++ Total lines written: + 12933152 +
 ```
-<!-- - Total lines deleted: - 521591 - -->
+<!-- - Total lines deleted: - 9660605 - -->
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
