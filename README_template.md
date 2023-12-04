@@ -26,9 +26,10 @@ DerSchinken = Human(
 <!--![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DerSchinken&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
-```diff
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6CF79D&vCenter=true&repeat=false&random=false&width=530&lines=Actual+lines+written%3A+{calculated_additions})](https://github.com/DerSchinken/DerSchinken/blob/master/updater.py#L43) <!-- https://git.io/typing-svg -->
+<!-- ```diff
 + Actual lines written: + {calculated_additions} +
-```
+``` -->
 <!-- + + Total lines written: + {total_additions} + -->
 <!-- - Total lines deleted: - {total_deletions} - -->
 <!--
