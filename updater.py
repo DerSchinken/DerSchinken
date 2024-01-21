@@ -13,7 +13,10 @@ def get_total_additions_deletions() -> dict:
     total_deletions = 0
 
     # if g.get_user(username).avatar_url != g.get_user().avatar_url:
-    for repo in g.get_user().get_repos(visibility="all"): 
+    for repo in g.get_user().get_repos(visibility="all"):
+        if repo.name.startswith("cpython"): 
+            # Skip cpython repo since it is to big and it't completey distort the values, because this code can't really check who commited changes
+            continue
         print(repo)
         for weekly_code_frequency in repo.get_stats_code_frequency():
             total_additions += weekly_code_frequency.additions
