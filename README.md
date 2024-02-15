@@ -11,7 +11,7 @@ from reality.creatures import Human
 
 DerSchinken = Human(
   name = "DerSchinken",
-  age = 18,
+  age = 19,
   hobbies = [
     "Programming", 
     "Hiking", 
@@ -26,12 +26,12 @@ DerSchinken = Human(
 <!--![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DerSchinken&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6CF79D&vCenter=true&repeat=false&random=false&width=530&lines=Actual+lines+written%3A+110254)](https://github.com/DerSchinken/DerSchinken/blob/master/updater.py#L43) <!-- https://git.io/typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6CF79D&vCenter=true&repeat=false&random=false&width=530&lines=Actual+lines+written%3A+126987)](https://github.com/DerSchinken/DerSchinken/blob/master/updater.py#L43) <!-- https://git.io/typing-svg -->
 <!-- ```diff
-+ Actual lines written: + 110254 +
++ Actual lines written: + 126987 +
 ``` -->
-<!-- + + Total lines written: + 634981 + -->
-<!-- - Total lines deleted: - 524727 - -->
+<!-- + + Total lines written: + 697705 + -->
+<!-- - Total lines deleted: - 570718 - -->
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
