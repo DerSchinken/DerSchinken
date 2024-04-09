@@ -44,5 +44,5 @@ with open("README.md", "w") as f:
         total_additions=additions,
         total_deletions=deletions,
         calculated_additions=additions-deletions,
-        age=eval(f"int({datetime.now().year}.{datetime.now().month}-2005.12)")
+        age=eval(f"int({datetime.now().year}.{datetime.now().month}-2005.12)")-1
     ))
