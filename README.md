@@ -26,12 +26,12 @@ DerSchinken = Human(
 <!--![Ok](https://github-readme-stats.vercel.app/api?username=DerSchinken&count_private=true&show_icons=true&theme=radical&border_color=420f41)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DerSchinken&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerSchinken&layout=compact&theme=radical&border_color=420f41)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6CF79D&vCenter=true&repeat=false&random=false&width=530&lines=Actual+lines+written%3A+687762)](https://github.com/DerSchinken/DerSchinken/blob/master/updater.py#L43) <!-- https://git.io/typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6CF79D&vCenter=true&repeat=false&random=false&width=530&lines=Actual+lines+written%3A+689065)](https://github.com/DerSchinken/DerSchinken/blob/master/updater.py#L43) <!-- https://git.io/typing-svg -->
 <!-- ```diff
-+ Actual lines written: + 687762 +
++ Actual lines written: + 689065 +
 ``` -->
-<!-- + + Total lines written: + 2516762 + -->
-<!-- - Total lines deleted: - 1829000 - -->
+<!-- + + Total lines written: + 2523019 + -->
+<!-- - Total lines deleted: - 1833954 - -->
 <!--
 **DrBumm/DrBumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
