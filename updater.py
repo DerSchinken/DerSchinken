@@ -7,7 +7,7 @@ token = os.environ.get("GITHUB_TOKEN")
 
 g = Github(token)
 
-print(g.get_repo("fortuneglobe/azubi-spielwiese"))
+print(g.get_user().get_repos(visibility="all"))
 
 
 def get_total_additions_deletions() -> dict:
