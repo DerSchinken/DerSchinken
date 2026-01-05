@@ -16,7 +16,7 @@ DerSchinken = Human(
     "Programming", 
     "Hiking", 
     "3D Printing",
-    "Arisoft"
+    "Airsoft"
   ]
 )
  ```
